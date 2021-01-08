@@ -1,4 +1,4 @@
 # Flutter-Projects
-## There will be separate branch for each project.
+## There will be different project in each branch.
 
 1. Spanish Numbers App
